@@ -1,0 +1,15 @@
+{
+  "name": "bluelens_getappindex",
+  "version": "1.0.0",
+  "description": "testing for http response",
+  "main": "index.js",
+  "scripts": {
+    "test": "Type query parameter as queryparameter"
+  },
+  "author": "shinyab",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.3.16"
+  },
+  "devDependencies": {}
+}
