@@ -1,0 +1,1 @@
+lambda-local -l httpresponse_get.js -h handler -e event-samples/s3-put.js -c
